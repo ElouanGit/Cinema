@@ -1,0 +1,51 @@
+body{
+    background: url(assets/sweethome1.png);
+    background-repeat: repeat;
+   
+}
+
+
+.movie-research{
+    
+    
+    color: red;
+   
+    justify-content: center;
+}
+.all_movie:hover{
+    background-color: black;
+    border: solid 3px rgb(255, 0, 0);
+    border-radius: 50px;
+    transition: 100ms;
+    margin-top: 0px;
+    padding: 100px;
+    font-size: 15px;
+}
+.number_movie h1{
+    text-shadow: rgb(122, 0, 0) 5px 0 10px;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.all_movie{
+    text-shadow: red 1px 0 10px;
+    text-align: center;
+    line-height: 30px;
+    border: solid 5px white;
+    border-radius: 30px;
+    display: table;
+    margin: auto;
+    flex-direction: row;
+    padding: 50px;
+    color: white    ;
+    box-shadow: 60px ;
+}
+.my_movie{
+    
+}
+.film_count{
+    color: red;
+}
+#pagination{
+    color: red;
+}

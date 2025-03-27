@@ -1,0 +1,159 @@
+body{
+    background: url(assets/netflixteaser.jpg);
+    background-repeat: repeat;
+}
+.nav-bar-user{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+}
+.alluser{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-shadow: red 1px 0 10px;
+    border: solid 3px white;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.alluser:hover{
+    background-color: black;
+    border: solid 3px rgb(255, 0, 0);
+    border-radius: 50px;
+    transition: 100ms;
+    margin-top: 0px;
+    padding: 100px;
+    font-size: 30px;background-color: black;
+}
+
+.alluser input{
+    transition: 100ms;
+    border-radius: 50px;
+    font-size: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid 3px rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    font-family: "Oswald";
+}
+.alluser input:hover{
+    font-size: 20px;
+    transition: 100ms;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 3px red;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: "Oswald";
+}
+.user-box{
+    transition: 100ms;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-shadow: red 1px 0 10px;
+    border: solid 3px white;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+.user-box:hover{
+    background-color: black;
+    border: solid 3px rgb(255, 0, 0);
+    border-radius: 50px;
+    transition: 100ms;
+    margin-top: 0px;
+    padding: 100px;
+    font-size: 30px;
+}
+.user-box input{
+    transition: 100ms;
+    border-radius: 50px;
+    font-size: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid 3px rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    font-family: "Oswald";
+}
+.user-box input:hover{
+    font-size: 20px;
+    transition: 100ms;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border: solid 3px red;
+    font-family: "Oswald";
+}
+.user-box button:hover{
+    font-size: 20px;
+    transition: 100ms;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+    border: solid 3px red;
+    background-color: rgb(0, 0, 0);
+    font-family: "Oswald";
+}
+.user-box button{
+    transition: 100ms;
+    border-radius: 50px;
+    font-size: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid 3px rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    font-family: "Oswald";
+}
+.verif{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-shadow: red 1px 0 10px;
+    
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+.verif button{
+    
+    transition: 100ms;
+    border-radius: 50px;
+    font-size: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid 3px rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    font-family: "Oswald";
+    
+    
+}
+.verif button:hover{
+    font-size: 20px;
+    transition: 100ms;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: "Oswald";
+}
